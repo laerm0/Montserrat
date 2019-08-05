@@ -81931,7 +81931,7 @@ rightKerningGroup = h.sc;
 },
 {
 color = 9;
-glyphname = udieresis.sc.alt.130.rvrn;
+glyphname = udieresis.sc.alt.133.rvrn;
 layers = (
 {
 layerId = UUID0;
@@ -82383,7 +82383,7 @@ rightKerningGroup = u.sc;
 },
 {
 color = 9;
-glyphname = udieresis.sc.ss01.alt.130.rvrn;
+glyphname = udieresis.sc.ss01.alt.133.rvrn;
 layers = (
 {
 layerId = UUID0;
@@ -132398,90 +132398,6 @@ nodes = (
 }
 );
 width = 1006;
-},
-{
-associatedMasterId = UUID0;
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"196 0 LINE",
-"322 270 LINE",
-"403 270 LINE",
-"403 0 LINE",
-"564 0 LINE",
-"564 270 LINE",
-"645 270 LINE",
-"771 0 LINE",
-"959 0 LINE",
-"773 385 LINE",
-"194 385 LINE",
-"8 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"322 585 LINE",
-"644 585 LINE",
-"483 386 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"629 350 LINE",
-"835 596 LINE",
-"835 700 LINE",
-"132 700 LINE",
-"132 596 LINE",
-"336 350 LINE"
-);
-}
-);
-};
-layerId = "9ABB2ABC-5A7C-4B76-9DAB-8AF6A3B474BD";
-name = "{-170-} Sep 19 17, 22:59";
-paths = (
-{
-closed = 1;
-nodes = (
-"194 0 LINE",
-"311 260 LINE",
-"403 260 LINE",
-"403 0 LINE",
-"564 0 LINE",
-"564 260 LINE",
-"654 260 LINE",
-"771 0 LINE",
-"959 0 LINE",
-"769 395 LINE",
-"198 395 LINE",
-"8 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"334 570 LINE",
-"634 570 LINE",
-"483 396 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"622 350 LINE",
-"835 596 LINE",
-"835 700 LINE",
-"132 700 LINE",
-"132 596 LINE",
-"343 350 LINE"
-);
-}
-);
-width = 967;
 },
 {
 associatedMasterId = "5DA6E103-6A94-47F2-987D-4952DB8EA68E";
@@ -217237,96 +217153,6 @@ nodes = (
 width = 1310;
 },
 {
-associatedMasterId = "5DA6E103-6A94-47F2-987D-4952DB8EA68E";
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"529 0 LINE",
-"693 484 LINE",
-"625 484 LINE",
-"781 0 LINE",
-"1034 0 LINE",
-"1268 700 LINE",
-"1041 700 LINE",
-"842 109 LINE",
-"965 109 LINE",
-"776 700 LINE",
-"553 700 LINE",
-"351 109 LINE",
-"479 109 LINE",
-"288 700 LINE",
-"42 700 LINE",
-"276 0 LINE"
-);
-}
-);
-};
-layerId = "BE4FC824-0CB8-48D7-8C40-F86D91D1FD70";
-name = "Bold [130]";
-paths = (
-{
-closed = 1;
-nodes = (
-"529 0 LINE",
-"693 484 LINE",
-"625 484 LINE",
-"781 0 LINE",
-"1034 0 LINE",
-"1268 700 LINE",
-"1041 700 LINE",
-"842 109 LINE",
-"965 109 LINE",
-"776 700 LINE",
-"553 700 LINE",
-"351 109 LINE",
-"479 109 LINE",
-"288 700 LINE",
-"42 700 LINE",
-"276 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"286 337 LINE",
-"30 337 LINE",
-"30 225 LINE",
-"324 225 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"240 475 LINE",
-"30 475 LINE",
-"30 363 LINE",
-"278 363 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1043 363 LINE",
-"1280 363 LINE",
-"1280 475 LINE",
-"1077 475 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1002 225 LINE",
-"1280 225 LINE",
-"1280 337 LINE",
-"1036 337 LINE"
-);
-}
-);
-width = 1310;
-},
-{
 background = {
 paths = (
 {
@@ -217410,114 +217236,6 @@ nodes = (
 "1176 451 LINE",
 "30 451 LINE",
 "30 387 LINE"
-);
-}
-);
-width = 1206;
-},
-{
-associatedMasterId = "708134FE-A11E-43C9-84F0-594DA15B6BD1";
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"410 0 LINE",
-"621 584 LINE",
-"589 584 LINE",
-"796 0 LINE",
-"918 0 LINE",
-"1161.01 700 LINE",
-"1050.01 700 LINE",
-"826 61 LINE",
-"885 61 LINE",
-"662 700 LINE",
-"553 700 LINE",
-"324 61 LINE",
-"386 61 LINE",
-"165 700 LINE",
-"45 700 LINE",
-"288 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1176 249 LINE",
-"1176 313 LINE",
-"30 313 LINE",
-"30 249 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1176 387 LINE",
-"1176 451 LINE",
-"30 451 LINE",
-"30 387 LINE"
-);
-}
-);
-};
-layerId = "500925CD-DC78-4AFE-8E38-6324C7552E08";
-name = "SemiBold [130]";
-paths = (
-{
-closed = 1;
-nodes = (
-"410 0 LINE",
-"619 584 LINE",
-"587 584 LINE",
-"796 0 LINE",
-"918 0 LINE",
-"1161 700 LINE",
-"1048 700 LINE",
-"826 61 LINE",
-"885 61 LINE",
-"662 700 LINE",
-"553 700 LINE",
-"324 61 LINE",
-"386 61 LINE",
-"165 700 LINE",
-"45 700 LINE",
-"288 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"251 313 LINE",
-"30 313 LINE",
-"30 249 LINE",
-"273 249 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"203 451 LINE",
-"30 451 LINE",
-"30 387 LINE",
-"226 387 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"992 387 LINE",
-"1176 387 LINE",
-"1176 451 LINE",
-"1013 451 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"947 249 LINE",
-"1176 249 LINE",
-"1176 313 LINE",
-"968 313 LINE"
 );
 }
 );
