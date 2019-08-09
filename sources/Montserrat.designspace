@@ -14,7 +14,7 @@
     </axis>
   </axes>
   <rules>
-<!--     <rule name="120.rvrn">
+    <rule name="120.rvrn">
         <condition minimum="120" name="Weight" />
         <sub name="naira" with="naira.120.rvrn"/>
     </rule>
@@ -23,26 +23,26 @@
         <sub name="peso" with="peso.130.rvrn"/>
         <sub name="won" with="won.130.rvrn"/>
     </rule>
- -->    <rule name="133.rvrn">
-        <condition minimum="133" name="Weight" />
+    <rule name="133.rvrn">
+        <condition minimum="133" maximum="1000" name="Weight" />
         <sub name="Udieresis.alt" with="Udieresis.alt.133.rvrn"/>
         <sub name="Udieresis.ss01.alt" with="Udieresis.ss01.alt.133.rvrn"/>
         <sub name="udieresis.sc.alt" with="udieresis.sc.alt.133.rvrn"/>
         <sub name="udieresis.sc.ss01.alt" with="udieresis.sc.ss01.alt.133.rvrn"/>
     </rule>
     <rule name="170.rvrn">
-        <condition minimum="170" name="Weight" />
+        <condition minimum="170" maximum="1000" name="Weight" />
         <sub name="Q.ss01" with="Q.ss01.170.rvrn"/>
         <sub name="q.sc.ss01" with="q.sc.ss01.170.rvrn"/>
-<!--         <sub name="cedi" with="cedi.170.rvrn"/>
- -->        <sub name="cent" with="cent.170.rvrn"/>
-<!--         <sub name="colonsign" with="colonsign.170.rvrn"/>
- -->        <sub name="dollar" with="dollar.170.rvrn"/>
-<!--         <sub name="guarani" with="guarani.170.rvrn"/>
- -->    </rule>
+        <sub name="cedi" with="cedi.170.rvrn"/>
+        <sub name="cent" with="cent.170.rvrn"/>
+        <sub name="colonsign" with="colonsign.170.rvrn"/>
+        <sub name="dollar" with="dollar.170.rvrn"/>
+        <sub name="guarani" with="guarani.170.rvrn"/>
+    </rule>
   </rules>
   <sources>
-    <source filename="Montserrat-Light.ufo" name="Montserrat Light" familyname="Montserrat" stylename="Light">
+    <source filename="./master_ufo/Montserrat-Light.ufo" name="Montserrat Light" familyname="Montserrat" stylename="Light">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -51,12 +51,12 @@
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
-    <source filename="Montserrat-SemiBold.ufo" name="Montserrat SemiBold" familyname="Montserrat" stylename="SemiBold">
+    <source filename="./master_ufo/Montserrat-SemiBold.ufo" name="Montserrat SemiBold" familyname="Montserrat" stylename="SemiBold">
       <location>
         <dimension name="Weight" xvalue="110"/>
       </location>
     </source>
-    <source filename="Montserrat-Bold.ufo" name="Montserrat Bold" familyname="Montserrat" stylename="Bold">
+    <source filename="./master_ufo/Montserrat-Bold.ufo" name="Montserrat Bold" familyname="Montserrat" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="226"/>
       </location>
